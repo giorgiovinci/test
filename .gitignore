@@ -1,6 +1,6 @@
 *.class
 .project
-.settings
+.settings*
 .cache
-.classpath
+.classpath*
 bin
